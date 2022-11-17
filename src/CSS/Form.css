@@ -1,0 +1,27 @@
+#FormSubs {
+    display: flex;
+    flex-direction: column;
+    padding: 4px 6px;
+    width: 250px;
+    
+    
+}
+.inptSaveSub{
+    margin-bottom: 20px;
+    width: 200px;
+}
+.buttons {
+    width: 210px;
+    border: 1px solid;
+}
+.buttons:hover{
+    background-color: white;
+    color: black;
+}
+
+.form{
+   position: absolute;
+   top: 30%;
+   left: 20%;
+
+}
